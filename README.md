@@ -1,6 +1,6 @@
 # SilverStrike
 Injected reverse shell with built in modules.\
-On top of an Injected reverse shell, SilverStrike offers the attacker: persistce, ransomware, screenshots, credential access, process elevation, DLL hijacking, upload/download files. Of course every thing will be done by the injected process.
+On top of an Injected reverse shell, SilverStrike offers the attacker: persistance, ransomware, screenshots, credential access, process elevation, DLL hijacking, upload/download files. Of course everything will be done by the injected process.
 
 
 # SilverStrike.pdf
