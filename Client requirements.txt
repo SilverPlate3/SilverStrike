@@ -1,0 +1,4 @@
+cryptography==36.0.1
+PyAutoGUI==0.9.52
+Pymem==1.8.5
+
